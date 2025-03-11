@@ -1,4 +1,5 @@
 # Kütüphane Otomasyon Sistemi
+![image](https://github.com/user-attachments/assets/93057c74-c3da-4c82-8800-7606a6e9c5ee)
 
 Bu proje, C# programlama dili kullanılarak geliştirilmiş, nesne yönelimli programlama (OOP) prensiplerini uygulayan bir kütüphane otomasyon sistemidir. Sistem, kitapların ödünç alınması ve iade edilmesi işlemlerini yönetmek için tasarlanmıştır.
 
