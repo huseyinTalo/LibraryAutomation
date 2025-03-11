@@ -34,8 +34,8 @@ Proje aşağıdaki ana bileşenlerden oluşmaktadır:
 
 1. Repo'yu klonlayın:
    ```
-   git clone [https://github.com/huseyinTalo/library-automation.git]
-   cd kutuphane-otomasyon
+   git clone https://github.com/huseyinTalo/LibraryAutomation.git
+   cd LibraryAutomation
    ```
 
 2. Uygulamayı derleyin:
