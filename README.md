@@ -34,7 +34,7 @@ Proje aşağıdaki ana bileşenlerden oluşmaktadır:
 
 1. Repo'yu klonlayın:
    ```
-   git clone [https://github.com/kullaniciadi/kutuphane-otomasyon.git]
+   git clone [https://github.com/huseyinTalo/library-automation.git]
    cd kutuphane-otomasyon
    ```
 
