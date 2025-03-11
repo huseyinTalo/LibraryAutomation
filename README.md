@@ -34,7 +34,7 @@ Proje aşağıdaki ana bileşenlerden oluşmaktadır:
 
 1. Repo'yu klonlayın:
    ```
-   git clone https://github.com/kullaniciadi/kutuphane-otomasyon.git
+   git clone [https://github.com/kullaniciadi/kutuphane-otomasyon.git]
    cd kutuphane-otomasyon
    ```
 
@@ -61,7 +61,7 @@ Projeyi Docker ile çalıştırmak için:
 2. Repo'yu klonlayın
 3. Terminal veya komut istemcisinde aşağıdaki komutu çalıştırın:
    ```
-   docker-compose up -d
+   docker-compose run -it --rm library-automation
    ```
 
 ## Kullanım
